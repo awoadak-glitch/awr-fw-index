@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "target": "mediatek/filogic",
+  "profiles": {
+    "cmcc_a10-stock": {
+      "title": "CMCC A10 (stock layout)",
+      "image": {
+        "sysupgrade": "https://github.com/awoadak-glitch/awr-fw-index/raw/refs/heads/main/repo/zn-m5/awr-1.0.0-zn-m5-sysupgrade.bin",
+        "sha256": "076d956844c417cc8754a3b5b459dbeb0652a5d4d14569b0e55cd466019e7233"
+      }
+    }
+  }
+}
