@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "target": "mediatek/filogic",
+  "target": "ramips/mt7621",
   "profiles": {
     "zn-m5": {
       "title": "ZN-M5",
